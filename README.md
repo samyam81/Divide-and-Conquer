@@ -17,8 +17,6 @@ This repository contains implementations of various algorithms in different prog
 
 1. [Installation](#installation)
 2. [Usage](#usage)
-3. [Contributing](#contributing)
-4. [License](#license)
 
 ## Installation
 
